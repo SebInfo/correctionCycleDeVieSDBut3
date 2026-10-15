@@ -1,0 +1,7 @@
+date,ligne,arret,nb_voyageurs
+2026-10-01,L1,Gare,120
+2026-10-01,L1,Universite,80
+2026-10-02,L1,Gare,100
+2026-10-01,L2,Gare,90
+2026-10-02,L2,Hopital,110
+2026-10-03,L3,Stade,60
